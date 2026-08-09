@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/iron_hoe"
+        "model": "mission:item/iron_hoe"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/wooden_axe"
+        "model": "mission:item/wooden_axe"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/netherite_pickaxe"
+        "model": "mission:item/netherite_pickaxe"
     }
 }

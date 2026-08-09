@@ -1,7 +1,10 @@
 {
     "pack": {
-        "description": "A Hypixel Skyblock Resource Pack developed by NSBC GC.",
-        "min_format": 88,
-        "max_format": 88
+        "description": "A Hypixel Skyblock Resource Pack developed by Adhi & Voidless.",
+        "pack_format": 88,
+        "supported_formats": {
+            "min_inclusive": 76,
+            "max_inclusive": 95
+        }
     }
 }

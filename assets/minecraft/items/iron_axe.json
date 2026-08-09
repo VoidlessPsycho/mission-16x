@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/iron_axe"
+        "model": "mission:item/iron_axe"
     }
 }

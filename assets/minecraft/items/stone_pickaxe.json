@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/stone_pickaxe"
+        "model": "mission:item/stone_pickaxe"
     }
 }

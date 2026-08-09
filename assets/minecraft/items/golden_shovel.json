@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/golden_shovel"
+        "model": "mission:item/golden_shovel"
     }
 }

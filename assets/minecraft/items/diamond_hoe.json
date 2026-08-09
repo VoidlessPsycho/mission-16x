@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "nsbc_rp:item/diamond_hoe"
+        "model": "mission:item/diamond_hoe"
     }
 }
